@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">boxiao1-FeelBook</string>
+
+    <array name="types">
+        <item>Love</item>
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Joy</item>
+        <item>Fear</item>
+        <item>Surprise</item>
+
+    </array>
+</resources>
